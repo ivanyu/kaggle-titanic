@@ -1,0 +1,7 @@
+numpy==1.12.1+mkl
+scipy==0.18.1
+Theano==0.9.0
+Keras==2.0.4
+xgboost==0.6
+matplotlib==2.0.2
+jupyter==1.0.0
